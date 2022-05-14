@@ -1,5 +1,5 @@
 import time
-from ssg import hooks
+from .. import hooks
 
 start_time = None
 total_written = 0
