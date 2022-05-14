@@ -1,5 +1,5 @@
 import sys
-from ssg import extensions
+import extensions
 
 from pathlib import Path
 
